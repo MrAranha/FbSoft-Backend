@@ -1,0 +1,16 @@
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\obj\Debug\net8.0\DOTTA-Services.csproj.AssemblyReference.cache
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\obj\Debug\net8.0\DOTTA-Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\obj\Debug\net8.0\DOTTA-Services.AssemblyInfoInputs.cache
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\obj\Debug\net8.0\DOTTA-Services.AssemblyInfo.cs
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\obj\Debug\net8.0\DOTTA-Services.csproj.CoreCompileInputs.cache
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\obj\Debug\net8.0\DOTTA-Services.sourcelink.json
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\bin\Debug\net8.0\DOTTA-Services.deps.json
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\bin\Debug\net8.0\DOTTA-Services.dll
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\bin\Debug\net8.0\DOTTA-Services.pdb
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\bin\Debug\net8.0\DOTTA-MediatrHandling.dll
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\bin\Debug\net8.0\DOTTA-MediatrHandling.pdb
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\obj\Debug\net8.0\DOTTA-Services.dll
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\obj\Debug\net8.0\refint\DOTTA-Services.dll
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\obj\Debug\net8.0\DOTTA-Services.pdb
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\obj\Debug\net8.0\ref\DOTTA-Services.dll
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-Services\obj\Debug\net8.0\DOTTA-Se.77400F42.Up2Date

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DOTTA-Backend.props" />
+</Project>

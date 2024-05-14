@@ -1,0 +1,378 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-API\\FbSoft-Backend.csproj": {}
+  },
+  "projects": {
+    "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-MediatrHandling\\FbSoft-MediatrHandling.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-MediatrHandling\\FbSoft-MediatrHandling.csproj",
+        "projectName": "FbSoft-MediatrHandling",
+        "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-MediatrHandling\\FbSoft-MediatrHandling.csproj",
+        "packagesPath": "C:\\Users\\Aranha\\.nuget\\packages\\",
+        "outputPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-MediatrHandling\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aranha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "DevExpressMvvm": {
+              "target": "Package",
+              "version": "[23.2.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-API\\FbSoft-Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-API\\FbSoft-Backend.csproj",
+        "projectName": "FbSoft-Backend",
+        "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-API\\FbSoft-Backend.csproj",
+        "packagesPath": "C:\\Users\\Aranha\\.nuget\\packages\\",
+        "outputPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aranha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj": {
+                "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj"
+              },
+              "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-Services\\FbSoft-Services.csproj": {
+                "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-Services\\FbSoft-Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj",
+        "projectName": "FbSoft-MediatrHandling",
+        "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj",
+        "packagesPath": "C:\\Users\\Aranha\\.nuget\\packages\\",
+        "outputPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-MediatrHandling\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aranha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "DevExpressMvvm": {
+              "target": "Package",
+              "version": "[23.2.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-Services\\FbSoft-Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-Services\\FbSoft-Services.csproj",
+        "projectName": "FbSoft-Services",
+        "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-Services\\FbSoft-Services.csproj",
+        "packagesPath": "C:\\Users\\Aranha\\.nuget\\packages\\",
+        "outputPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aranha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-MediatrHandling\\FbSoft-MediatrHandling.csproj": {
+                "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-MediatrHandling\\FbSoft-MediatrHandling.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "DbExtensions": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

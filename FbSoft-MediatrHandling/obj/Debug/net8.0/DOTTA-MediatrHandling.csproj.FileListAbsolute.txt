@@ -1,0 +1,13 @@
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\obj\Debug\net8.0\DOTTA-MediatrHandling.csproj.AssemblyReference.cache
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\obj\Debug\net8.0\DOTTA-MediatrHandling.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\obj\Debug\net8.0\DOTTA-MediatrHandling.AssemblyInfoInputs.cache
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\obj\Debug\net8.0\DOTTA-MediatrHandling.AssemblyInfo.cs
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\obj\Debug\net8.0\DOTTA-MediatrHandling.csproj.CoreCompileInputs.cache
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\obj\Debug\net8.0\DOTTA-MediatrHandling.sourcelink.json
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\bin\Debug\net8.0\DOTTA-MediatrHandling.deps.json
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\bin\Debug\net8.0\DOTTA-MediatrHandling.dll
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\bin\Debug\net8.0\DOTTA-MediatrHandling.pdb
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\obj\Debug\net8.0\DOTTA-MediatrHandling.dll
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\obj\Debug\net8.0\refint\DOTTA-MediatrHandling.dll
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\obj\Debug\net8.0\DOTTA-MediatrHandling.pdb
+F:\DOTTA\DOTTA-Backend\DOTTA-Backend\DOTTA-MediatrHandling\obj\Debug\net8.0\ref\DOTTA-MediatrHandling.dll

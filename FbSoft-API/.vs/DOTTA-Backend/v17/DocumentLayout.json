@@ -1,0 +1,820 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-backend\\dotta-api\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\DeleteEmpresasRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-backend\\dotta-api\\fbsoft-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:fbsoft-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-backend\\dotta-api\\fbsoft-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:fbsoft-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-backend\\dotta-api\\fbsoft-backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:fbsoft-backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasEditRequestHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Repositories\\EmpresaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Entities\\TB_Empresas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IEmpresaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasEditRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasCreateRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\DeleteEmpresasRequestHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasByIDRequestHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserPagedRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Interfaces\\IGetPagedEmpresasQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Queries\\Empresas\\GetPagedEmpresasQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Queries\\Users\\GetPagedUsersQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasPagedRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasPagedRequestHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasByIDRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasRequestHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasCreateRequestHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\AutoMapper\\AutoMapperProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasPagedResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasByIDResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserRequestHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Result\\GetLoginResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Handlers\\GetLoginRequestHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Entities\\TB_Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Results\\GetUserResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\DBClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\DbSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Requests\\GetLoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IDefaultHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\DOTTA-MediatrHandling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\DOTTA-Services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-backend\\dotta-api\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-backend\\dotta-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-backend\\dotta-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-backend\\dotta-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-backend\\dotta-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-backend\\dotta-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-backend\\dotta-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 431,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetEmpresasEditRequestHandler.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasEditRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasEditRequestHandler.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasEditRequestHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasEditRequestHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:26:43.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpresaRepository.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Repositories\\EmpresaRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Repositories\\EmpresaRepository.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Repositories\\EmpresaRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Repositories\\EmpresaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:42:50.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TB_Empresas.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Entities\\TB_Empresas.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Entities\\TB_Empresas.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Entities\\TB_Empresas.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Entities\\TB_Empresas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:41:10.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmpresaRepository.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IEmpresaRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IEmpresaRepository.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IEmpresaRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IEmpresaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:44:22.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EmpresasController.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\Controllers\\EmpresasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpresasController.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\Controllers\\EmpresasController.cs",
+              "RelativeToolTip": "Controllers\\EmpresasController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwAAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:21:32.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:05:34.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteEmpresasRequest.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\DeleteEmpresasRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\DeleteEmpresasRequest.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\DeleteEmpresasRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\DeleteEmpresasRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:27:05.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-16T20:53:40.776Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetEmpresasEditRequest.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasEditRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasEditRequest.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasEditRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasEditRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:27:20.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetEmpresasCreateRequest.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasCreateRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasCreateRequest.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasCreateRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:27:14.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteEmpresasRequestHandler.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\DeleteEmpresasRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\DeleteEmpresasRequestHandler.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\DeleteEmpresasRequestHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\DeleteEmpresasRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:26:16.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetEmpresasByIDRequestHandler.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasByIDRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasByIDRequestHandler.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasByIDRequestHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasByIDRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:26:27.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetUserPagedRequest.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserPagedRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserPagedRequest.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserPagedRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserPagedRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:36:07.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGetPagedUsersQuery.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:50:53.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGetPagedEmpresasQuery.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Interfaces\\IGetPagedEmpresasQuery.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Interfaces\\IGetPagedEmpresasQuery.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Interfaces\\IGetPagedEmpresasQuery.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Interfaces\\IGetPagedEmpresasQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:27:01.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetPagedEmpresasQuery.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Queries\\Empresas\\GetPagedEmpresasQuery.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Queries\\Empresas\\GetPagedEmpresasQuery.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Queries\\Empresas\\GetPagedEmpresasQuery.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Queries\\Empresas\\GetPagedEmpresasQuery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:52:16.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetPagedUsersQuery.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:52:18.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Repositories\\UserRepository.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:05:34.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetEmpresasPagedRequest.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasPagedRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasPagedRequest.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasPagedRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasPagedRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:27:23.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetEmpresasPagedRequestHandler.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasPagedRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasPagedRequestHandler.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasPagedRequestHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasPagedRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:26:49.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:05:34.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetEmpresasRequest.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasRequest.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:11:53.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetEmpresasByIDRequest.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasByIDRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasByIDRequest.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasByIDRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Requests\\GetEmpresasByIDRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:27:08.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetEmpresasRequestHandler.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasRequestHandler.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasRequestHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:26:56.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetEmpresasCreateRequestHandler.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasCreateRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasCreateRequestHandler.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasCreateRequestHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Handlers\\GetEmpresasCreateRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:26:35.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:26:13.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetEmpresasResult.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasResult.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasResult.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:27:47.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetEmpresasPagedResult.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasPagedResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasPagedResult.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasPagedResult.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasPagedResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:27:40.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetEmpresasByIDResult.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasByIDResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasByIDResult.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasByIDResult.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Empresas\\Results\\GetEmpresasByIDResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:27:35.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FbSoft-Backend.http",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\FbSoft-Backend.http",
+              "RelativeDocumentMoniker": "FbSoft-Backend.http",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\FbSoft-Backend.http",
+              "RelativeToolTip": "FbSoft-Backend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-05T15:05:34.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-05T15:05:34.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAowFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:05:34.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetUserRequestHandler.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserRequestHandler.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserRequestHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:05:34.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetLoginResult.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Result\\GetLoginResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Result\\GetLoginResult.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Result\\GetLoginResult.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Result\\GetLoginResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:03:44.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetLoginRequestHandler.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Handlers\\GetLoginRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Handlers\\GetLoginRequestHandler.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Handlers\\GetLoginRequestHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Handlers\\GetLoginRequestHandler.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:15:15.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetUserRequest.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserRequest.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:05:34.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T13:11:22.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TB_Users.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Entities\\TB_Users.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Entities\\TB_Users.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Entities\\TB_Users.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Entities\\TB_Users.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T16:42:18.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetUserResult.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Results\\GetUserResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Results\\GetUserResult.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Results\\GetUserResult.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Users\\Results\\GetUserResult.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:05:34.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DBClass.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\DBClass.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\DBClass.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\DBClass.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\DBClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:05:34.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DbSession.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\DbSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\DbSession.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\DbSession.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\DbSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:05:34.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-05T15:05:34.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FbSoft-Backend.csproj",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\FbSoft-Backend.csproj",
+              "RelativeDocumentMoniker": "FbSoft-Backend.csproj",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\FbSoft-Backend.csproj",
+              "RelativeToolTip": "FbSoft-Backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-05T15:05:34.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\UnitOfWork.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\Services\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:05:34.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetLoginRequest.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Requests\\GetLoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Requests\\GetLoginRequest.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Requests\\GetLoginRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\EntityRequests\\Login\\Requests\\GetLoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:02:08.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FbSoft-Backend",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\FbSoft-Backend.csproj",
+              "RelativeDocumentMoniker": "FbSoft-Backend.csproj",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\FbSoft-Backend.csproj",
+              "RelativeToolTip": "FbSoft-Backend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-05T15:05:34.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:15:35.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IDefaultHandler.cs",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IDefaultHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IDefaultHandler.cs",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IDefaultHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\Interfaces\\IDefaultHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T17:01:44.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DOTTA-MediatrHandling.csproj",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\DOTTA-MediatrHandling.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\DOTTA-MediatrHandling.csproj",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\DOTTA-MediatrHandling.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-MediatrHandling\\DOTTA-MediatrHandling.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-05T15:05:34.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DOTTA-Services.csproj",
+              "DocumentMoniker": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\DOTTA-Services.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\DOTTA-Services.csproj",
+              "ToolTip": "F:\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\DOTTA-Services.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\DOTTA\\DOTTA-Backend\\DOTTA-Backend\\DOTTA-Services\\DOTTA-Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-05T15:05:34.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Backend\\DOTTA-API\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-05T15:05:34.297Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

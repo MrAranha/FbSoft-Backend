@@ -3823,8 +3823,8 @@
     },
     "FbSoft-MediatrHandling/1.0.0": {
       "type": "project",
-      "path": "../DOTTA-MediatrHandling/FbSoft-MediatrHandling.csproj",
-      "msbuildProject": "../DOTTA-MediatrHandling/FbSoft-MediatrHandling.csproj"
+      "path": "../FbSoft-MediatrHandling/FbSoft-MediatrHandling.csproj",
+      "msbuildProject": "../FbSoft-MediatrHandling/FbSoft-MediatrHandling.csproj"
     },
     "FbSoft-Services/1.0.0": {
       "type": "project",
@@ -3845,19 +3845,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aranha\\.nuget\\packages\\": {}
+    "C:\\Users\\Aranha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-API\\FbSoft-Backend.csproj",
+      "projectUniqueName": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-API\\FbSoft-Backend.csproj",
       "projectName": "FbSoft-Backend",
-      "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-API\\FbSoft-Backend.csproj",
+      "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-API\\FbSoft-Backend.csproj",
       "packagesPath": "C:\\Users\\Aranha\\.nuget\\packages\\",
-      "outputPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-API\\obj\\",
+      "outputPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Aranha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3871,11 +3876,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj": {
-              "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj"
+            "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj": {
+              "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj"
             },
-            "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-Services\\FbSoft-Services.csproj": {
-              "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-Services\\FbSoft-Services.csproj"
+            "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Services\\FbSoft-Services.csproj": {
+              "projectPath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Services\\FbSoft-Services.csproj"
             }
           }
         }

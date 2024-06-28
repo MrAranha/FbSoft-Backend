@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYCZXKbR7Teubsi1CLN27b98TZ2ynKHiDJlN6lJ9a1Gg9SvdG9D6t+wwg3S10kSH4QxNs/W81mflRIKrkqLi7g==",
+  "dgSpecHash": "bixomOmaXR4UBLDdypm5sOWxQwctLNJ+fOrkV3UVi5zYfEvjIHA9AO37XUUnhgs15lcrSbQlFU1I19gSj39NmQ==",
   "success": true,
-  "projectFilePath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-Services\\FbSoft-Services.csproj",
+  "projectFilePath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Services\\FbSoft-Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aranha\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Aranha\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

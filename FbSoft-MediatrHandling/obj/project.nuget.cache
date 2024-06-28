@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RKPM2dCwVV933L8WfO02zzYBCwxqhPyeKRj/HAVGkC3YVakymUHg04QDRMbu4gDoaQQs9Sh/Pr5NMtpl2onLIA==",
+  "dgSpecHash": "ilt8a5Q96p5ULYpuzgBwoqUAhQoD1aa8KJ+Pp9YPBUuGrn7yn6RhiI4G4iJ02sZ8i51AvGqE2kaGknipr0Y76g==",
   "success": true,
-  "projectFilePath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-Backend\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj",
+  "projectFilePath": "F:\\Fábrica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aranha\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Aranha\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

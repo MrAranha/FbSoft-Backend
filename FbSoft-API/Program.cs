@@ -4,15 +4,9 @@ using FbSoft_MediatrHandling.EntityRequests.Users.AutoMapper;
 using FbSoft_MediatrHandling.Interfaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
-using AutoMapper;
 using System.Text;
-using Microsoft.Extensions.DependencyInjection;
 using FbSoft_MediatrHandling.EntityRequests.Users.Interfaces;
 using FbSoft_Services.Queries.Users;
-using static System.Net.Mime.MediaTypeNames;
-using Scrutor;
-using FbSoft_MediatrHandling.EntityRequests.Empresas.Interfaces;
-using FbSoft_Services.Queries.Empresas;
 using FbSoft_Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -20,12 +14,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddScoped<DbSession>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
-builder.Services.AddScoped<IEmpresaRepository, EmpresaRepository>();
 
 #region AddTransient
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 builder.Services.AddTransient<IGetPagedUsersQuery, GetPagedUsersQuery>();
-builder.Services.AddTransient<IGetPagedEmpresasQuery, GetPagedEmpresasQuery>();
 #endregion
 
 builder.Services.AddTransient<IFbSoftQuery, DottaQuery>();

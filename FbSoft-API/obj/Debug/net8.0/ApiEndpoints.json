@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "DOTTA_Backend.Controllers.LoginController",
+    "ContainingType": "FbSoft_Backend.Controllers.LoginController",
     "Method": "Login",
     "RelativePath": "api/auth/Login",
     "HttpMethod": "POST",
@@ -9,13 +9,13 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "DOTTA_MediatrHandling.EntityRequests.Login.Requests.GetLoginRequest",
+        "Type": "FbSoft_MediatrHandling.EntityRequests.Login.Requests.GetLoginRequest",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "DOTTA_MediatrHandling.EntityRequests.Login.Result.GetLoginResult",
+        "Type": "FbSoft_MediatrHandling.EntityRequests.Login.Result.GetLoginResult",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.LoginController",
+    "ContainingType": "FbSoft_Backend.Controllers.LoginController",
     "Method": "CheckLoginToken",
     "RelativePath": "api/auth/Login/me",
     "HttpMethod": "GET",
@@ -36,42 +36,16 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.EmpresasController",
-    "Method": "GetAllEmpresas",
-    "RelativePath": "api/Empresas",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "request",
-        "Type": "DOTTA_MediatrHandling.EntityRequests.Empresas.Requests.GetEmpresasRequest",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[DOTTA_MediatrHandling.EntityRequests.Empresas.Results.GetEmpresasResult, DOTTA-MediatrHandling, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "DOTTA_Backend.Controllers.EmpresasController",
-    "Method": "DeleteEmpresas",
-    "RelativePath": "api/Empresas/delete",
+    "ContainingType": "FbSoft_Backend.Controllers.CarrosController",
+    "Method": "DeleteCarro",
+    "RelativePath": "api/Carros/delete",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "ID",
-        "Type": "System.String",
+        "Type": "System.Int32",
         "IsRequired": false
       }
     ],
@@ -88,60 +62,30 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.EmpresasController",
-    "Method": "EditUser",
-    "RelativePath": "api/Empresas/edit",
+    "ContainingType": "FbSoft_Backend.Controllers.CarrosController",
+    "Method": "EditCarro",
+    "RelativePath": "api/Carros/edit",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Nome",
         "Type": "System.String",
         "IsRequired": false
       },
       {
-        "Name": "name",
+        "Name": "Ano",
         "Type": "System.String",
         "IsRequired": false
       },
       {
-        "Name": "email",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "country",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "address",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "state",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "city",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "zipCode",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "about",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "role",
+        "Name": "Marca",
         "Type": "System.String",
         "IsRequired": false
       }
@@ -159,22 +103,22 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.EmpresasController",
+    "ContainingType": "FbSoft_Backend.Controllers.CarrosController",
     "Method": "GetById",
-    "RelativePath": "api/Empresas/getById",
+    "RelativePath": "api/Carros/getById",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "ID",
-        "Type": "System.String",
+        "Type": "System.Int32",
         "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "DOTTA_MediatrHandling.EntityRequests.Empresas.Results.GetEmpresasByIDResult",
+        "Type": "FbSoft_MediatrHandling.EntityRequests.Carros.Results.GetCarroByIDResult",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -185,9 +129,9 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.EmpresasController",
-    "Method": "CreateEmpresas",
-    "RelativePath": "api/Empresas/save",
+    "ContainingType": "FbSoft_Backend.Controllers.CarrosController",
+    "Method": "CreateCarro",
+    "RelativePath": "api/Carros/save",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -198,19 +142,19 @@
         "IsRequired": false
       },
       {
-        "Name": "Email",
+        "Name": "Ano",
         "Type": "System.String",
         "IsRequired": false
       },
       {
-        "Name": "Password",
+        "Name": "Marca",
         "Type": "System.String",
         "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "System.Int32",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -221,30 +165,30 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.EmpresasController",
+    "ContainingType": "FbSoft_Backend.Controllers.CarrosController",
     "Method": "Search",
-    "RelativePath": "api/Empresas/search",
+    "RelativePath": "api/Carros/search",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
       {
         "Name": "Nome",
         "Type": "System.String",
         "IsRequired": false
       },
       {
-        "Name": "Email",
+        "Name": "Ano",
         "Type": "System.String",
         "IsRequired": false
       },
       {
-        "Name": "Empresa",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "id",
+        "Name": "Marca",
         "Type": "System.String",
         "IsRequired": false
       },
@@ -261,7 +205,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[DOTTA_MediatrHandling.EntityRequests.Empresas.Results.GetEmpresasPagedResult, DOTTA-MediatrHandling, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FbSoft_MediatrHandling.EntityRequests.Carros.Results.GetCarroPagedResult, FbSoft-MediatrHandling, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -272,7 +216,7 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.UsersController",
+    "ContainingType": "FbSoft_Backend.Controllers.UsersController",
     "Method": "GetAllUsers",
     "RelativePath": "api/Users",
     "HttpMethod": "GET",
@@ -281,13 +225,13 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "DOTTA_MediatrHandling.EntityRequests.Users.Requests.GetUserRequest",
+        "Type": "FbSoft_MediatrHandling.EntityRequests.Users.Requests.GetCarroRequest",
         "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[DOTTA_MediatrHandling.EntityRequests.Users.Results.GetUserResult, DOTTA-MediatrHandling, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FbSoft_MediatrHandling.EntityRequests.Users.Results.GetCarroResult, FbSoft-MediatrHandling, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -298,7 +242,7 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.UsersController",
+    "ContainingType": "FbSoft_Backend.Controllers.UsersController",
     "Method": "AdminEndPoint",
     "RelativePath": "api/Users/Admins",
     "HttpMethod": "GET",
@@ -308,7 +252,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.UsersController",
+    "ContainingType": "FbSoft_Backend.Controllers.UsersController",
     "Method": "ChangePassword",
     "RelativePath": "api/Users/changePassword",
     "HttpMethod": "PUT",
@@ -339,7 +283,7 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.UsersController",
+    "ContainingType": "FbSoft_Backend.Controllers.UsersController",
     "Method": "DeleteUser",
     "RelativePath": "api/Users/delete",
     "HttpMethod": "DELETE",
@@ -365,7 +309,7 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.UsersController",
+    "ContainingType": "FbSoft_Backend.Controllers.UsersController",
     "Method": "EditUser",
     "RelativePath": "api/Users/edit",
     "HttpMethod": "PUT",
@@ -436,7 +380,7 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.UsersController",
+    "ContainingType": "FbSoft_Backend.Controllers.UsersController",
     "Method": "GetById",
     "RelativePath": "api/Users/getById",
     "HttpMethod": "GET",
@@ -451,7 +395,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "DOTTA_MediatrHandling.EntityRequests.Users.Results.GetUserByIDResult",
+        "Type": "FbSoft_MediatrHandling.EntityRequests.Users.Results.GetUserByIDResult",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -462,7 +406,7 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.UsersController",
+    "ContainingType": "FbSoft_Backend.Controllers.UsersController",
     "Method": "CreateUser",
     "RelativePath": "api/Users/save",
     "HttpMethod": "POST",
@@ -498,7 +442,7 @@
     ]
   },
   {
-    "ContainingType": "DOTTA_Backend.Controllers.UsersController",
+    "ContainingType": "FbSoft_Backend.Controllers.UsersController",
     "Method": "Search",
     "RelativePath": "api/Users/search",
     "HttpMethod": "GET",
@@ -538,7 +482,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[DOTTA_MediatrHandling.EntityRequests.Users.Results.GetUserPagedResult, DOTTA-MediatrHandling, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FbSoft_MediatrHandling.EntityRequests.Users.Results.GetUserPagedResult, FbSoft-MediatrHandling, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

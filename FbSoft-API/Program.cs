@@ -8,16 +8,20 @@ using System.Text;
 using FbSoft_MediatrHandling.EntityRequests.Users.Interfaces;
 using FbSoft_Services.Queries.Users;
 using FbSoft_Services.Interfaces;
+using FbSoft_MediatrHandling.EntityRequests.Carros.Interfaces;
+using FbSoft_Services.Queries.Carros;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddScoped<DbSession>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<ICarroRepository, CarroRepository>();
 
 #region AddTransient
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 builder.Services.AddTransient<IGetPagedUsersQuery, GetPagedUsersQuery>();
+builder.Services.AddTransient<IGetPagedCarroQuery, GetPagedCarroQuery>();
 #endregion
 
 builder.Services.AddTransient<IFbSoftQuery, DottaQuery>();

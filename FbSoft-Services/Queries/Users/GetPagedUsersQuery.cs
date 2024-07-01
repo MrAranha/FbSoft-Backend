@@ -30,7 +30,7 @@ namespace FbSoft_Services.Queries.Users
             {
                 request.Email = "%" + request.Email + "%";
             }
-            var query = new SqlBuilder().SELECT("*").FROM("TB_Carros")
+            var query = new SqlBuilder().SELECT("*").FROM("TB_Users")
                 .WHERE()
                 ._If(!request.Nome.IsNullOrEmpty(), "displayName LIKE @Nome")
                 ._If(!request.Email.IsNullOrEmpty(), "email LIKE @Email")

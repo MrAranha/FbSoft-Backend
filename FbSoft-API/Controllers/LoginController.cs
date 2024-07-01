@@ -4,7 +4,7 @@ using MediatR;
 using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DOTTA_Backend.Controllers
+namespace FbSoft_Backend.Controllers
 {
     [ApiController]
     [Route("api/auth/[controller]")]

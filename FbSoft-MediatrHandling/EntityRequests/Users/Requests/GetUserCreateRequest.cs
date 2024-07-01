@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FbSoft_MediatrHandling.EntityRequests.Users.Requests
 {
-    public class GetUserCreateRequest : IRequest<string>
+    public class GetCarroCreateRequest : IRequest<string>
     {
         public string Nome { get; set; }
         public string Email { get; set; }

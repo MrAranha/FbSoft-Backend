@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace FbSoft_MediatrHandling.EntityRequests.Users.Handlers
 {
-    public class GetUserEditRequestHandler : IRequestHandler<GetUserEditRequest, bool>
+    public class GetCarroEditRequestHandler : IRequestHandler<GetCarroEditRequest, bool>
     {
         private readonly IUserRepository _repository;
-        public GetUserEditRequestHandler(IUserRepository repository) { _repository = repository; }
-        public async Task<bool> Handle(GetUserEditRequest request, CancellationToken cancellationToken)
+        public GetCarroEditRequestHandler(IUserRepository repository) { _repository = repository; }
+        public async Task<bool> Handle(GetCarroEditRequest request, CancellationToken cancellationToken)
         {
             await _repository.Edit(new FbSoft_Services.Entities.TB_Users()
             {

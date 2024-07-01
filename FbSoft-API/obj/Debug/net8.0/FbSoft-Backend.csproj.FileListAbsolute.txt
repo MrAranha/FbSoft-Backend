@@ -1,0 +1,7 @@
+F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\FbSoft-Backend.csproj.AssemblyReference.cache
+F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\FbSoft-Backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\FbSoft-Backend.AssemblyInfoInputs.cache
+F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\FbSoft-Backend.AssemblyInfo.cs
+F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\FbSoft-Backend.csproj.CoreCompileInputs.cache
+F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\FbSoft-Backend.MvcApplicationPartsAssemblyInfo.cache
+F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\FbSoft-Backend.sourcelink.json

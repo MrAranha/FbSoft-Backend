@@ -1,12 +1,10 @@
 ﻿using AutoMapper;
-using FbSoft_MediatrHandling.EntityRequests.Users.Requests;
-using FbSoft_MediatrHandling.EntityRequests.Users.Results;
+using FbSoft_MediatrHandling.EntityRequests.Carros.Requests;
+using FbSoft_MediatrHandling.EntityRequests.Carros.Results;
 using FbSoft_MediatrHandling.Interfaces;
-using FbSoft_Services.Entities;
 using MediatR;
-using System.Collections.Generic;
 
-namespace FbSoft_MediatrHandling.EntityRequests.Users.Handlers
+namespace FbSoft_MediatrHandling.EntityRequests.Carros.Handlers
 {
     public class GetCarroRequestHandler : IRequestHandler<GetCarroRequest, IEnumerable<GetCarroResult>>
     {

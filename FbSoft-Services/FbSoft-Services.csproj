@@ -18,8 +18,4 @@
   <ItemGroup>
     <ProjectReference Include="..\FbSoft-MediatrHandling\FbSoft-MediatrHandling.csproj" />
   </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Queries\Users\" />
-  </ItemGroup>
 </Project>

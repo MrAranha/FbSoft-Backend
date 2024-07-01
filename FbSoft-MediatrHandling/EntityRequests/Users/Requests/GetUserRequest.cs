@@ -3,7 +3,7 @@ using MediatR;
 
 namespace FbSoft_MediatrHandling.EntityRequests.Users.Requests
 {
-    public class GetUserRequest : IRequest<IEnumerable<GetUserResult>>
+    public class GetCarroRequest : IRequest<IEnumerable<GetCarroResult>>
     {
     }
 }

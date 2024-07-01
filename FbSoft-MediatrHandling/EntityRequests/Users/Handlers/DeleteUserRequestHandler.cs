@@ -12,12 +12,12 @@ using System.Threading.Tasks;
 
 namespace FbSoft_MediatrHandling.EntityRequests.Users.Handlers
 {
-    public class DeleteUserRequestHandler : IRequestHandler<DeleteUserRequest, bool>
+    public class DeleteCarroRequestHandler : IRequestHandler<DeleteCarroRequest, bool>
     {
         private readonly IUserRepository _userRepository;
-        public DeleteUserRequestHandler(IUserRepository userRepository) { _userRepository = userRepository; }
+        public DeleteCarroRequestHandler(IUserRepository userRepository) { _userRepository = userRepository; }
 
-        public async Task<bool> Handle(DeleteUserRequest request, CancellationToken cancellationToken)
+        public async Task<bool> Handle(DeleteCarroRequest request, CancellationToken cancellationToken)
         {
             //TODO VALIDACAO DE ADMINISTRADOR, TANTO NO FRONT QUANTO NO BACK
             return await _userRepository.Delete(request.UserID);

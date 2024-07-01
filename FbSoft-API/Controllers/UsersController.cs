@@ -9,7 +9,7 @@ using System.Net;
 using System.Net.Mime;
 using System.Security.Claims;
 
-namespace DOTTA_Backend.Controllers
+namespace FbSoft_Backend.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -45,37 +45,37 @@ namespace DOTTA_Backend.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<GetUserResult>> GetAllUsers([FromQuery] GetUserRequest request)
+        public async Task<IEnumerable<GetCarroResult>> GetAllUsers([FromQuery] GetCarroRequest request)
         {
             return await _mediator.Send(request);
         }
 
         [HttpGet("search")]
-        public async Task<IEnumerable<GetUserPagedResult>> Search([FromQuery] GetUserPagedRequest request)
+        public async Task<IEnumerable<GetCarroPagedResult>> Search([FromQuery] GetCarroPagedRequest request)
         {
             return await _mediator.Send(request);
         }
 
         [HttpPost("save")]
-        public async Task<string> CreateUser([FromForm] GetUserCreateRequest request)
+        public async Task<string> CreateUser([FromForm] GetCarroCreateRequest request)
         {
             return await _mediator.Send(request);
         }
 
         [HttpDelete("delete")]
-        public async Task<bool> DeleteUser([FromQuery] DeleteUserRequest request)
+        public async Task<bool> DeleteUser([FromQuery] DeleteCarroRequest request)
         {
             return await _mediator.Send(request);
         }
 
         [HttpGet("getById")]
-        public async Task<GetUserByIDResult> GetById([FromQuery] GetUserByIDRequest request)
+        public async Task<GetCarroByIDResult> GetById([FromQuery] GetCarroByIDRequest request)
         {
             return await _mediator.Send(request);
         }
 
         [HttpPut("edit")]
-        public async Task<bool> EditUser([FromForm] GetUserEditRequest request)
+        public async Task<bool> EditUser([FromForm] GetCarroEditRequest request)
         {
             return await _mediator.Send(request);
         }

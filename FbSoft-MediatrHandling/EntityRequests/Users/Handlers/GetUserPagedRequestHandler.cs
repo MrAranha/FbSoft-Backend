@@ -11,10 +11,10 @@ using System.Threading.Tasks;
 
 namespace FbSoft_MediatrHandling.EntityRequests.Users.Handlers
 {
-    public class GetUserPagedRequestHandler : IRequestHandler<GetUserPagedRequest, IEnumerable<GetUserPagedResult>>
+    public class GetCarroPagedRequestHandler : IRequestHandler<GetUserPagedRequest, IEnumerable<GetUserPagedResult>>
     {
         private readonly IGetPagedUsersQuery _getPagedUsersQuery;
-        public GetUserPagedRequestHandler(IGetPagedUsersQuery getPagedUsersQuery) { _getPagedUsersQuery = getPagedUsersQuery; }
+        public GetCarroPagedRequestHandler(IGetPagedUsersQuery getPagedUsersQuery) { _getPagedUsersQuery = getPagedUsersQuery; }
 
         public async Task<IEnumerable<GetUserPagedResult>> Handle(GetUserPagedRequest request, CancellationToken cancellationToken)
         {

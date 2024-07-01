@@ -11,11 +11,11 @@ using System.Threading.Tasks;
 
 namespace FbSoft_MediatrHandling.EntityRequests.Users.Handlers
 {
-    public class GetUserCreateRequestHandler : IRequestHandler<GetUserCreateRequest, string>
+    public class GetCarroCreateRequestHandler : IRequestHandler<GetCarroCreateRequest, string>
     {
         private readonly IUserRepository _repository;
-        public GetUserCreateRequestHandler(IUserRepository repository) { _repository = repository; }
-        public async Task<string> Handle(GetUserCreateRequest request, CancellationToken cancellationToken)
+        public GetCarroCreateRequestHandler(IUserRepository repository) { _repository = repository; }
+        public async Task<string> Handle(GetCarroCreateRequest request, CancellationToken cancellationToken)
         {
             var doesExist = await _repository.GetByEmail(request.Email);
             if (doesExist != null)

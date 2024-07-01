@@ -1,15 +1,10 @@
 ﻿using AutoMapper;
 using FbSoft_MediatrHandling.EntityRequests.Login.Result;
-using FbSoft_MediatrHandling.EntityRequests.Users.Requests;
-using FbSoft_MediatrHandling.EntityRequests.Users.Results;
+using FbSoft_MediatrHandling.EntityRequests.Carros.Requests;
+using FbSoft_MediatrHandling.EntityRequests.Carros.Results;
 using FbSoft_Services.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace FbSoft_MediatrHandling.EntityRequests.Users.AutoMapper
+namespace FbSoft_MediatrHandling.EntityRequests.Carros.AutoMapper
 {
     public class AutoMapperProfile : Profile
     {

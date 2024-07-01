@@ -15,10 +15,10 @@ using System.Xml.Linq;
 
 namespace FbSoft_MediatrHandling.EntityRequests.Users.Handlers
 {
-    public class GetUserByIDRequestHandler : IRequestHandler<GetUserByIDRequest, GetUserByIDResult>
+    public class GetCarroByIDRequestHandler : IRequestHandler<GetUserByIDRequest, GetUserByIDResult>
     {
         private readonly IUserRepository _userRepository;
-        public GetUserByIDRequestHandler(IUserRepository userRepository)
+        public GetCarroByIDRequestHandler(IUserRepository userRepository)
         {
             _userRepository = userRepository;
         }

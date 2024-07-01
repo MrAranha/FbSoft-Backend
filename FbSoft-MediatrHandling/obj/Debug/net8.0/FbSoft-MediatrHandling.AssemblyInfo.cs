@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FbSoft-MediatrHandling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af5d8ea88d8238079f2f4c44136effaf08ad0919")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4b32135366af2dc96ad0ece9c87e2d7627cecc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("FbSoft-MediatrHandling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FbSoft-MediatrHandling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

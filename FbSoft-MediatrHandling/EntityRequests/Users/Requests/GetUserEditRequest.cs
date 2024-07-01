@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FbSoft_MediatrHandling.EntityRequests.Users.Requests
 {
-    public class GetUserEditRequest : IRequest<bool>
+    public class GetCarroEditRequest : IRequest<bool>
     {
         public string id { get; set; }
         public string name { get; set; }

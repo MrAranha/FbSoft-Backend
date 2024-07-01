@@ -1,6 +1,5 @@
 ﻿using FbSoft_MediatrHandling.EntityRequests.Users.Requests;
 using FbSoft_MediatrHandling.EntityRequests.Users.Results;
-using FbSoft_MediatrHandling.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

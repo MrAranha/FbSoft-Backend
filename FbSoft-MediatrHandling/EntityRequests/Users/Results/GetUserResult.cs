@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FbSoft_MediatrHandling.EntityRequests.Users.Results
 {
-    public class GetUserResult
+    public class GetCarroResult
     {
         public string ID { get; set; }
         public string Name { get; set; }

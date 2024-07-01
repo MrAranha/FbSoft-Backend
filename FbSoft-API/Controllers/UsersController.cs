@@ -51,7 +51,7 @@ namespace FbSoft_Backend.Controllers
         }
 
         [HttpGet("search")]
-        public async Task<IEnumerable<GetCarroPagedResult>> Search([FromQuery] GetCarroPagedRequest request)
+        public async Task<IEnumerable<GetUserPagedResult>> Search([FromQuery] GetUserPagedRequest request)
         {
             return await _mediator.Send(request);
         }
@@ -69,7 +69,7 @@ namespace FbSoft_Backend.Controllers
         }
 
         [HttpGet("getById")]
-        public async Task<GetCarroByIDResult> GetById([FromQuery] GetCarroByIDRequest request)
+        public async Task<GetUserByIDResult> GetById([FromQuery] GetUserByIDRequest request)
         {
             return await _mediator.Send(request);
         }

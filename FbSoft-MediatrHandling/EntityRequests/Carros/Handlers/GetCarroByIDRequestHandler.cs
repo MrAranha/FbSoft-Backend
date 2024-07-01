@@ -25,7 +25,13 @@ namespace FbSoft_MediatrHandling.EntityRequests.Carros.Handlers
         public async Task<GetCarroByIDResult> Handle(GetCarroByIDRequest request, CancellationToken cancellationToken)
         {
             var result = await _carroRepository.GetByID(request.ID);
-            return result;
+            return new GetCarroByIDResult()
+            {
+                ID = result.Id,
+               Nome = result.Nome,
+               Marca = result.Marca,
+               Ano = result.Ano
+            };
         }
     }
 }

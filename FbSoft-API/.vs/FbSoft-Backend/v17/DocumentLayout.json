@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-api\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\entityrequests\\carros\\handlers\\deletecarrorequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\entityrequests\\carros\\requests\\getcarrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\entityrequests\\carros\\handlers\\getcarrorequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\entityrequests\\carros\\requests\\getcarrocreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\entityrequests\\carros\\handlers\\getcarrobyidrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,9 +42,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\interfaces\\icarrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\entityrequests\\carros\\requests\\getcarrocreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E579A0A3-BE15-4FCB-8E73-A8F37957C266}|..\\FbSoft-Services\\FbSoft-Services.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-services\\queries\\users\\getpagedusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -72,12 +89,6 @@
       "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\entityrequests\\carros\\results\\getcarroresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\entityrequests\\carros\\handlers\\getcarrorequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\entityrequests\\carros\\requests\\getcarrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\entityrequests\\carros\\requests\\deletecarrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -99,18 +110,7 @@
       "AbsoluteMoniker": "D:0:0:{E579A0A3-BE15-4FCB-8E73-A8F37957C266}|..\\FbSoft-Services\\FbSoft-Services.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-services\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\entityrequests\\carros\\handlers\\deletecarrorequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D311559-772C-43C8-9E97-AFC9708FFC1C}|..\\FbSoft-MediatrHandling\\FbSoft-MediatrHandling.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-mediatrhandling\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-api\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C6B1BC0-42ED-4E66-BC31-1209C09687C6}|FbSoft-Backend.csproj|f:\\f\u00E1brica de software\\fbsoft-backend\\fbsoft-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,90 +127,12 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetUserPagedRequestHandler.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserPagedRequestHandler.cs",
-              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserPagedRequestHandler.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserPagedRequestHandler.cs",
-              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserPagedRequestHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T18:29:02.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetUserByIDRequestHandler.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserByIDRequestHandler.cs",
-              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserByIDRequestHandler.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserByIDRequestHandler.cs",
-              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserByIDRequestHandler.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAADgvxsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T18:28:35.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetUserByIDRequest.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserByIDRequest.cs",
-              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserByIDRequest.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserByIDRequest.cs",
-              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserByIDRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T18:28:13.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IGetPagedUsersQuery.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
-              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
-              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T18:21:54.591Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetPagedCarrosQuery.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Services\\Queries\\Carros\\GetPagedCarrosQuery.cs",
-              "RelativeDocumentMoniker": "..\\FbSoft-Services\\Queries\\Carros\\GetPagedCarrosQuery.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Services\\Queries\\Carros\\GetPagedCarrosQuery.cs",
-              "RelativeToolTip": "..\\FbSoft-Services\\Queries\\Carros\\GetPagedCarrosQuery.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T18:01:54.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetPagedUsersQuery.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
-              "RelativeDocumentMoniker": "..\\FbSoft-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
-              "RelativeToolTip": "..\\FbSoft-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T18:01:25.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\AutoMapper\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\AutoMapper\\AutoMapperProfile.cs",
@@ -223,20 +145,176 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "GetCarroByIDRequestHandler.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroByIDRequestHandler.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroByIDRequestHandler.cs",
               "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroByIDRequestHandler.cs",
               "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroByIDRequestHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADgvx8AAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAWwCEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T00:27:02.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
+              "Title": "CarrosController.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-API\\Controllers\\CarrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarrosController.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-API\\Controllers\\CarrosController.cs",
+              "RelativeToolTip": "Controllers\\CarrosController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:21:49.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetCarroCreateRequest.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroCreateRequest.cs",
+              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroCreateRequest.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroCreateRequest.cs",
+              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:46:16.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCarroRequest.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroRequest.cs",
+              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroRequest.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroRequest.cs",
+              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:47:05.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetCarroRequestHandler.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroRequestHandler.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroRequestHandler.cs",
+              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:44:30.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteCarroRequestHandler.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\DeleteCarroRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\DeleteCarroRequestHandler.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\DeleteCarroRequestHandler.cs",
+              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\DeleteCarroRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:25:52.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:23:01.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetUserPagedRequestHandler.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserPagedRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserPagedRequestHandler.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserPagedRequestHandler.cs",
+              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserPagedRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:29:02.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetUserByIDRequestHandler.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserByIDRequestHandler.cs",
+              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserByIDRequestHandler.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserByIDRequestHandler.cs",
+              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Handlers\\GetUserByIDRequestHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvxsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:28:35.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetUserByIDRequest.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserByIDRequest.cs",
+              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserByIDRequest.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserByIDRequest.cs",
+              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserByIDRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:28:13.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetPagedUsersQuery.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
+              "RelativeDocumentMoniker": "..\\FbSoft-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
+              "RelativeToolTip": "..\\FbSoft-Services\\Queries\\Users\\GetPagedUsersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:01:25.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGetPagedUsersQuery.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
+              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
+              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedUsersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:21:54.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetPagedCarrosQuery.cs",
+              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Services\\Queries\\Carros\\GetPagedCarrosQuery.cs",
+              "RelativeDocumentMoniker": "..\\FbSoft-Services\\Queries\\Carros\\GetPagedCarrosQuery.cs",
+              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Services\\Queries\\Carros\\GetPagedCarrosQuery.cs",
+              "RelativeToolTip": "..\\FbSoft-Services\\Queries\\Carros\\GetPagedCarrosQuery.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:01:54.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "GetCarroPagedResult.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Results\\GetCarroPagedResult.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Results\\GetCarroPagedResult.cs",
@@ -249,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "GetCarroPagedRequest.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroPagedRequest.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroPagedRequest.cs",
@@ -262,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "GetCarroCreateRequestHandler.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroCreateRequestHandler.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroCreateRequestHandler.cs",
@@ -275,20 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetCarroCreateRequest.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroCreateRequest.cs",
-              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroCreateRequest.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroCreateRequest.cs",
-              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroCreateRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T00:46:16.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ICarroRepository.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\Interfaces\\ICarroRepository.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\Interfaces\\ICarroRepository.cs",
@@ -301,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "GetUserPagedRequest.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserPagedRequest.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Requests\\GetUserPagedRequest.cs",
@@ -318,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "IGetPagedCarroQuery.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Interfaces\\IGetPagedCarroQuery.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Interfaces\\IGetPagedCarroQuery.cs",
@@ -331,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "GetUserPagedResult.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Results\\GetUserPagedResult.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Results\\GetUserPagedResult.cs",
@@ -344,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "GetCarroEditRequestHandler.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroEditRequestHandler.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroEditRequestHandler.cs",
@@ -357,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "IGetPagedCarrosQuery.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedCarrosQuery.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Interfaces\\IGetPagedCarrosQuery.cs",
@@ -370,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "GetCarroEditRequest.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroEditRequest.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroEditRequest.cs",
@@ -383,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "TB_Carros.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\Entities\\TB_Carros.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\Entities\\TB_Carros.cs",
@@ -396,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "CarroRepository.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Services\\Repositories\\CarroRepository.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-Services\\Repositories\\CarroRepository.cs",
@@ -409,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "GetCarroByIDResult.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Results\\GetCarroByIDResult.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Results\\GetCarroByIDResult.cs",
@@ -422,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "GetCarroResult.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Results\\GetCarroResult.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Results\\GetCarroResult.cs",
@@ -435,33 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GetCarroRequestHandler.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroRequestHandler.cs",
-              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroRequestHandler.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroRequestHandler.cs",
-              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroRequestHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T02:44:30.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GetCarroRequest.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroRequest.cs",
-              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroRequest.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroRequest.cs",
-              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T00:47:05.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "DeleteCarroRequest.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\DeleteCarroRequest.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\DeleteCarroRequest.cs",
@@ -474,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "GetCarroByIDRequest.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroByIDRequest.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Requests\\GetCarroByIDRequest.cs",
@@ -487,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "GetUserByIDResult.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Results\\GetUserByIDResult.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Users\\Results\\GetUserByIDResult.cs",
@@ -500,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "TB_Users.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\Entities\\TB_Users.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\Entities\\TB_Users.cs",
@@ -513,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "TB_Pedidos.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\Entities\\TB_Pedidos.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\Entities\\TB_Pedidos.cs",
@@ -530,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-Services\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-Services\\Repositories\\UserRepository.cs",
@@ -543,20 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "DeleteCarroRequestHandler.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\DeleteCarroRequestHandler.cs",
-              "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\DeleteCarroRequestHandler.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\DeleteCarroRequestHandler.cs",
-              "RelativeToolTip": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\DeleteCarroRequestHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T00:25:52.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "GetCarroPagedRequestHandler.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroPagedRequestHandler.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\EntityRequests\\Carros\\Handlers\\GetCarroPagedRequestHandler.cs",
@@ -569,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-MediatrHandling\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "..\\FbSoft-MediatrHandling\\Interfaces\\IUserRepository.cs",
@@ -582,18 +608,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T00:23:01.476Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 36,
               "Title": "LoginController.cs",
               "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-API\\Controllers\\LoginController.cs",
@@ -603,18 +617,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T00:22:34.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "CarrosController.cs",
-              "DocumentMoniker": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-API\\Controllers\\CarrosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CarrosController.cs",
-              "ToolTip": "F:\\F\u00E1brica de Software\\FbSoft-Backend\\FbSoft-API\\Controllers\\CarrosController.cs",
-              "RelativeToolTip": "Controllers\\CarrosController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAADMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T00:21:49.735Z"
             },
             {
               "$type": "Bookmark",

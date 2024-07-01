@@ -1,5 +1,5 @@
-using FbSoft_MediatrHandling.EntityRequests.Users.Requests;
-using FbSoft_MediatrHandling.EntityRequests.Users.Results;
+using FbSoft_MediatrHandling.EntityRequests.Carros.Requests;
+using FbSoft_MediatrHandling.EntityRequests.Carros.Results;
 using FbSoft_MediatrHandling.Interfaces;
 using FbSoft_Services.Entities;
 using MediatR;
@@ -22,19 +22,19 @@ namespace FbSoft_Backend.Controllers
         }
 
         [HttpGet("search")]
-        public async Task<IEnumerable<GetCarrosPagedResult>> Search([FromQuery] GetCarrosPagedRequest request)
+        public async Task<IEnumerable<GetCarroPagedResult>> Search([FromQuery] GetCarroPagedRequest request)
         {
             return await _mediator.Send(request);
         }
 
         [HttpPost("save")]
-        public async Task<string> CreateCarro([FromForm] GetCarrosCreateRequest request)
+        public async Task<int> CreateCarro([FromForm] GetCarroCreateRequest request)
         {
             return await _mediator.Send(request);
         }
 
         [HttpDelete("delete")]
-        public async Task<bool> DeleteCarro([FromQuery] GetCarroRequest request)
+        public async Task<bool> DeleteCarro([FromQuery] DeleteCarroRequest request)
         {
             return await _mediator.Send(request);
         }

@@ -21,7 +21,8 @@ namespace FbSoft_MediatrHandling.EntityRequests.Carros.Handlers
             {
                 Ano = request.Ano,
                 Marca = request.Marca,
-               Nome = request.Nome 
+               Nome = request.Nome,
+               Quantidade = request.Quantidade,
             });
         }
     }

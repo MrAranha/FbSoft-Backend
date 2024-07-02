@@ -14,6 +14,9 @@ namespace FbSoft_MediatrHandling.Interfaces
         public Task<int> Add(TB_Carros add);
         public Task<TB_Carros> GetByID(int id);
         public Task<bool> Delete(int id);
-        public Task<bool> Edit(TB_Carros edit);
+        public Task<bool> Edit(TB_Carros edit); 
+        Task<int> FazerPedido(TB_Pedidos pedido);
+        Task<IEnumerable<TB_Pedidos>> GetPedidos(int idCarro);
+        Task<bool> DeletePedido(int idPedido);
     }
 }

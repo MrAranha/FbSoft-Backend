@@ -18,7 +18,8 @@ namespace FbSoft_MediatrHandling.EntityRequests.Carros.Handlers
 
         public async Task<IEnumerable<GetCarroPagedResult>> Handle(GetCarroPagedRequest request, CancellationToken cancellationToken)
         {
-            return await _getPagedCarroQuery.Get(request);
+            var result = await _getPagedCarroQuery.Get(request);
+            return result;
         }
     }
 }

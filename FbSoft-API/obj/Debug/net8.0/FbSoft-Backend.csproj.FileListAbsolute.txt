@@ -91,3 +91,6 @@ F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\refint\FbSoft
 F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\FbSoft-Backend.pdb
 F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\FbSoft-Backend.genruntimeconfig.cache
 F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\ref\FbSoft-Backend.dll
+F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\obj\Debug\net8.0\FbSoft-Backend.MvcApplicationPartsAssemblyInfo.cs
+F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\bin\Debug\net8.0\MailKit.dll
+F:\Fábrica de Software\FbSoft-Backend\FbSoft-API\bin\Debug\net8.0\MimeKit.dll

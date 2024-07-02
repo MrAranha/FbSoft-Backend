@@ -50,5 +50,10 @@ namespace FbSoft_Backend.Controllers
         {
             return await _mediator.Send(request);
         }
+        [HttpPut("fazerPedido")]
+        public async Task<GetFazerPedidoCarroResult> FazerPedido([FromForm] GetFazerPedidoCarroRequest request)
+        {
+            return await _mediator.Send(request);
+        }
     }
 }

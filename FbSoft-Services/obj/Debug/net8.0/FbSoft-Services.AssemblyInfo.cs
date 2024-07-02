@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FbSoft-Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51a5954efff558c0bad0cd3bdff6818e6efaf612")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6033104dccaf31637c21aa5c6bd1345ad314cebd")]
 [assembly: System.Reflection.AssemblyProductAttribute("FbSoft-Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FbSoft-Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

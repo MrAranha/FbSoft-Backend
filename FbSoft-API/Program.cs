@@ -10,6 +10,9 @@ using FbSoft_Services.Queries.Users;
 using FbSoft_Services.Interfaces;
 using FbSoft_MediatrHandling.EntityRequests.Carros.Interfaces;
 using FbSoft_Services.Queries.Carros;
+using Microsoft.OpenApi.Models;
+using FbSoft_Backend.Email;
+using FbSoft_MediatrHandling.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +23,7 @@ builder.Services.AddScoped<ICarroRepository, CarroRepository>();
 
 #region AddTransient
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
+builder.Services.AddTransient<IMailService, MailService>();
 builder.Services.AddTransient<IGetPagedUsersQuery, GetPagedUsersQuery>();
 builder.Services.AddTransient<IGetPagedCarroQuery, GetPagedCarroQuery>();
 #endregion
@@ -37,6 +41,21 @@ builder.Services.AddCors(o => o.AddDefaultPolicy(
 
 builder.Services.AddControllers();
 
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Title = "Example API",
+        Version = "v1",
+        Description = "TESTE",
+        Contact = new OpenApiContact
+        {
+            Name = "Concessionária",
+            Email = "concessionaria.noreply@gmail.com"
+        }
+    });
+});
+builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("MailSettings"));
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
 {
     options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters

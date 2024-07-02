@@ -64,6 +64,10 @@
               "target": "Package",
               "version": "[2.1.28, )"
             },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.2.0, )"
@@ -79,6 +83,10 @@
             "Scrutor": {
               "target": "Package",
               "version": "[4.2.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
             }
           },
           "imports": [

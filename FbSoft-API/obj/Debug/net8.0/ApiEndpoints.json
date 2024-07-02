@@ -88,11 +88,47 @@
         "Name": "Marca",
         "Type": "System.String",
         "IsRequired": false
+      },
+      {
+        "Name": "Quantidade",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
         "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FbSoft_Backend.Controllers.CarrosController",
+    "Method": "FazerPedido",
+    "RelativePath": "api/Carros/fazerPedido",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "idCarro",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FbSoft_MediatrHandling.EntityRequests.Carros.Results.GetFazerPedidoCarroResult",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -150,6 +186,11 @@
         "Name": "Marca",
         "Type": "System.String",
         "IsRequired": false
+      },
+      {
+        "Name": "Quantidade",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
@@ -190,6 +231,11 @@
       {
         "Name": "Marca",
         "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Quantidade",
+        "Type": "System.Int32",
         "IsRequired": false
       },
       {

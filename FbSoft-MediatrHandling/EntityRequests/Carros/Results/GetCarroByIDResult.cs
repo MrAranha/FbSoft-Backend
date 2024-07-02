@@ -12,5 +12,7 @@ namespace FbSoft_MediatrHandling.EntityRequests.Carros.Results
         public string Nome { get; set; }
         public string Ano { get; set; }
         public string Marca { get; set; }
+
+        public int Quantidade { get; set; }
     }
 }
